@@ -1,6 +1,4 @@
-<h1 align="center">
-  Place Service
-</h1>
+# Place Service
 
 API to manage places (CRUD) which is part of [this challenge](https://github.com/RocketBus/quero-ser-clickbus/tree/master/testes/backend-developer) for backend developers who apply for the ClickBus.
 Project implemented to learn more about [Spring Reactive](https://spring.io/reactive).
