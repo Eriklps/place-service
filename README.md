@@ -8,7 +8,7 @@ Project implemented to learn more about [Spring Reactive](https://spring.io/reac
 - [Spring Boot](https://spring.io/projects/spring-boot)
 - [Spring Webflux](https://docs.spring.io/spring-framework/reference/web/webflux.html)
 - [Spring Data + R2DBC](https://docs.spring.io/spring-framework/reference/data-access/r2dbc.html)
-- [SpringDoc OpenAPI 3](https://springdoc.org/v2/#spring-webflux-support)
+- [SpringDoc OpenAPI 3](https://springdoc.org/)
 - [Slugify](https://github.com/slugify/slugify)
 
 ## Practices adopted
